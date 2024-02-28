@@ -1,0 +1,16 @@
+body {
+
+    color:white;
+    background-size:cover;
+}
+.heading {
+width: 80%;
+font-size: 22.9px;
+
+}
+#camera {
+
+    border: 2px white;
+    width: 350px;
+    height: 300px;
+}
